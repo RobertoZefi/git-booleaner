@@ -1,0 +1,11 @@
+.pattern{
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-color:blue;
+    background-size: contain;
+    height: 150px;
+}
+
+#logo{
+    height: 80px;
+}
